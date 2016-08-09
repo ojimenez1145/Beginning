@@ -4,3 +4,6 @@ def Intro():
     for x in range(50):
         print "Num: " + str(x)
         
+    count = 10
+    while count > 0:
+        print "Testing" + str(count)
